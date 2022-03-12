@@ -1,8 +1,8 @@
 columns_name,columns_description,columns_korean,columns_english
 G181SEX, 1남성  2여성,성별,gender
-G181GRADUM, 2월졸업 8월졸업, graduation_month
-G181A125, A32_1 초임의 월평균 소득(만원), salary
-G181A126,A33_1 급여 만족도,급여,income
+G181GRADUM, 2월졸업 8월졸업, 졸업시기, graduation_month
+G181A125, A32_1 초임의 월평균 소득(만원), 급여, salary
+G181A126,A33_1 급여 만족도,급여만족도,income
 G181A127,A33_2 고용 안정성 만족도,안정성,stability
 G181A128,A33_3 하고 있는 일의 내용(직무내용),직무내용,job_contents
 G181A129,"A33_4 근무 환경(시설, 안전, 위생상태 등)",근무환경,working_environment
