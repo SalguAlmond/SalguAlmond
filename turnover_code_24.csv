@@ -1,0 +1,25 @@
+columns_name,columns_description,columns_korean,columns_english
+G181SEX,0남 1여,성별,gender
+G181GRADUM,0(2월졸업) 1(8월졸업),졸업시기,graduation_month
+G181A125,A32_1 초임의 월평균 소득(만원),급여,salary
+G181A126,A33_1 급여 만족도,급여만족도,income
+G181A127,A33_2 고용 안정성 만족도,안정성,stability
+G181A128,A33_3 하고 있는 일의 내용(직무내용),직무내용,job_contents
+G181A129,"A33_4 근무 환경(시설, 안전, 위생상태 등)",근무환경,working_environment
+G181A130,"A33_5 일하는 시간(근로 시간, 근무 일수)",근로시간,working_hours
+G181A131,A33_6 개인의 발전 가능성,발전가능성,development_potential
+G181A132,A33_7 인간관계,인간관계,personal_relationships
+G181A133,A33_8 복리 후생 제도(사회 보험 및 부가급부),복리후생,welfare
+G181A134,A33_9 인사체계(승진 제도),승진제도,promotion_system
+G181A135,A33_10 하고 있는 일에 대한 사회적 평판,업무평판,business_reputation
+G181A136,A33_11 하고 있는 일의 자율성과 권한,자율성권한,autonomy_authority
+G181A137,A33_12 일자리에 대한 사회적 평판,일자리평판,job_reputation
+G181A138,"A33_13 하는 일과 자신의 적성, 흥미의 일치",적성일치,aptitude_match
+G181A139,A33_14 직무관련 교육 또는 훈련,교육훈련,training
+G181A140,A33-1. 현 직장(일자리)에 대한 전반적인 만족도,직장만족도,job_satisfaction
+G181A141,A33-2. 주된 일(업무)에 대한 전반적인 만족도,업무만족도,work_satisfaction
+G181A142,A34. 교육 수준 - 일 수준 일치 정도,교육수준적합도,education_match
+G181A143,A35. 일의 기술(기능) 수준 - 본인의 기술(기능) 수준 일치 정도,기술수준적합도,skill_match
+G181A144,A36. 일의 내용 - 자신의 (편)입학 시 전공(주전공) 일치 정도,전공적합도,major_match
+G181A146,A37. 대학 전공 지식의 업무 도움 정도,전공지식유용성,major_knowledge_match
+G181A297,A52. 이직준비를 하고 있는 지 여부   1예  2아니오,이직,turnover
